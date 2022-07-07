@@ -6,7 +6,7 @@
     protected $table = 'tbluser';
  // column sa table
     protected $fillable = [
-    'username', 'password', 'gender', 'jobID'
+    'username', 'password', 'gender', 'jobid'
 ];
 
     public $timestamps = false;
